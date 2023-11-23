@@ -1,4 +1,4 @@
-## Users CRUD - Spring test task
+## Users CRUD REST API - Spring test task
 
 ### Starting the app
 
