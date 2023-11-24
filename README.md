@@ -14,8 +14,8 @@ Flyway migrations are used to create tables and insert demo rows
 
 ### Implemented endpoints
 
-GET /users - get users page
-GET /users/{id} - get user by id
-POST /users - create user
-PATCH /users/{id} - patch user by id
-DELETE /users/{id} - delete user by id
+* GET /users - get users page
+* GET /users/{id} - get user by id
+* POST /users - create user
+* PATCH /users/{id} - patch user by id
+* DELETE /users/{id} - delete user by id
